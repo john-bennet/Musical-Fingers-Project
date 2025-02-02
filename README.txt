@@ -9,3 +9,13 @@ INSTRUCTIONS TO RUN MUSICAL-FINGERS-PROJECT:
 3. Copy Musical_Fingers.py file.
 
 4. Run the Code.
+
+5. Contract Each Finger and hear all Musical Notes : 
+
+  C D E F G A B C 
+
+  (Do Re Mi Fa So La Ti Do) - Western Classical Musical Notes.
+
+  (Sa Re Ga Ma Pa Da Ni Sa) -  Indian Classical Musical Notes.
+
+6. Play a Song contracting respective fingers.
